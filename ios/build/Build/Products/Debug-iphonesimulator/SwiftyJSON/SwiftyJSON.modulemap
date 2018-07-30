@@ -1,0 +1,12 @@
+module SwiftyJSON [system] {
+  umbrella header "SwiftyJSON-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+
+module SwiftyJSON.Swift {
+  header "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/SwiftyJSON/Swift Compatibility Header/SwiftyJSON-Swift.h"
+  requires objc
+}

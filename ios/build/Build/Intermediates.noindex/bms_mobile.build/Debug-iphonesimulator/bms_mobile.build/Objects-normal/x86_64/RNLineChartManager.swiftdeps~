@@ -1,0 +1,248 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "RNLineChartManager"
+provides-nominal:
+- "10bms_mobile18RNLineChartManagerC"
+provides-member:
+- ["10bms_mobile18RNLineChartManagerC", ""]
+provides-dynamic-lookup:
+- "_bridge"
+- "centerViewTo"
+- "centerViewToAnimated"
+- "fitScreen"
+- "moveViewTo"
+- "moveViewToAnimated"
+- "moveViewToX"
+- "requiresMainQueueSetup"
+- "view"
+depends-top-level:
+- "Bool"
+- !private "BooleanLiteralType"
+- "CastingPrecedence"
+- "NSNumber"
+- "NSString"
+- "RCTBridge"
+- "RCTViewManager"
+- "RNBarLineChartBaseManager"
+- "RNLineChartManager"
+- !private "RNLineChartView"
+- "UIView"
+depends-member:
+- !private ["So15CALayerDelegateP", "init"]
+- !private ["s7CVarArgP", "RNLineChartView"]
+- ["s7CVarArgP", ""]
+- ["s7CVarArgP", "_bridge"]
+- !private ["s7CVarArgP", "bridge"]
+- !private ["s7CVarArgP", "init"]
+- !private ["6Charts17ChartViewDelegateP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "RNLineChartView"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- ["s28CustomDebugStringConvertibleP", "_bridge"]
+- !private ["s28CustomDebugStringConvertibleP", "bridge"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "RNLineChartView"]
+- ["s23CustomStringConvertibleP", ""]
+- ["s23CustomStringConvertibleP", "_bridge"]
+- !private ["s23CustomStringConvertibleP", "bridge"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s9EquatableP", "RNLineChartView"]
+- ["s9EquatableP", ""]
+- ["s9EquatableP", "_bridge"]
+- !private ["s9EquatableP", "bridge"]
+- !private ["s9EquatableP", "init"]
+- !private ["s8HashableP", "RNLineChartView"]
+- ["s8HashableP", ""]
+- ["s8HashableP", "_bridge"]
+- !private ["s8HashableP", "bridge"]
+- !private ["s8HashableP", "init"]
+- !private ["So8NSCodingP", "init"]
+- ["So8NSObjectC", "Bool"]
+- ["So8NSObjectC", "NSNumber"]
+- ["So8NSObjectC", "NSString"]
+- ["So8NSObjectC", "RCTBridge"]
+- !private ["So8NSObjectC", "RNBarLineChartBaseManager"]
+- !private ["So8NSObjectC", "RNLineChartView"]
+- ["So8NSObjectC", "UIView"]
+- ["So8NSObjectC", "_bridge"]
+- !private ["So8NSObjectC", "bridge"]
+- ["So8NSObjectC", "centerViewTo"]
+- ["So8NSObjectC", "centerViewToAnimated"]
+- ["So8NSObjectC", "fitScreen"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "moveViewTo"]
+- ["So8NSObjectC", "moveViewToAnimated"]
+- ["So8NSObjectC", "moveViewToX"]
+- ["So8NSObjectC", "requiresMainQueueSetup"]
+- ["So8NSObjectC", "view"]
+- !private ["So16NSObjectProtocolP", "RNLineChartView"]
+- ["So16NSObjectProtocolP", ""]
+- ["So16NSObjectProtocolP", "_bridge"]
+- !private ["So16NSObjectProtocolP", "bridge"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So15RCTBridgeModuleP", "RNLineChartView"]
+- ["So15RCTBridgeModuleP", ""]
+- ["So15RCTBridgeModuleP", "_bridge"]
+- !private ["So15RCTBridgeModuleP", "bridge"]
+- !private ["So15RCTBridgeModuleP", "init"]
+- !private ["So12RCTComponentP", "init"]
+- ["So14RCTViewManagerC", "Bool"]
+- ["So14RCTViewManagerC", "NSNumber"]
+- ["So14RCTViewManagerC", "NSString"]
+- ["So14RCTViewManagerC", "RCTBridge"]
+- !private ["So14RCTViewManagerC", "RNBarLineChartBaseManager"]
+- !private ["So14RCTViewManagerC", "RNLineChartView"]
+- ["So14RCTViewManagerC", "UIView"]
+- ["So14RCTViewManagerC", ""]
+- ["So14RCTViewManagerC", "_bridge"]
+- !private ["So14RCTViewManagerC", "bridge"]
+- ["So14RCTViewManagerC", "centerViewTo"]
+- ["So14RCTViewManagerC", "centerViewToAnimated"]
+- ["So14RCTViewManagerC", "fitScreen"]
+- ["So14RCTViewManagerC", "init"]
+- ["So14RCTViewManagerC", "moveViewTo"]
+- ["So14RCTViewManagerC", "moveViewToAnimated"]
+- ["So14RCTViewManagerC", "moveViewToX"]
+- ["So14RCTViewManagerC", "requiresMainQueueSetup"]
+- ["So14RCTViewManagerC", "view"]
+- !private ["10bms_mobile25RNBarLineChartBaseManagerP", "RNLineChartView"]
+- ["10bms_mobile25RNBarLineChartBaseManagerP", ""]
+- ["10bms_mobile25RNBarLineChartBaseManagerP", "_bridge"]
+- !private ["10bms_mobile25RNBarLineChartBaseManagerP", "_centerViewTo"]
+- !private ["10bms_mobile25RNBarLineChartBaseManagerP", "_centerViewToAnimated"]
+- !private ["10bms_mobile25RNBarLineChartBaseManagerP", "_fitScreen"]
+- !private ["10bms_mobile25RNBarLineChartBaseManagerP", "_moveViewTo"]
+- !private ["10bms_mobile25RNBarLineChartBaseManagerP", "_moveViewToAnimated"]
+- !private ["10bms_mobile25RNBarLineChartBaseManagerP", "_moveViewToX"]
+- !private ["10bms_mobile25RNBarLineChartBaseManagerP", "bridge"]
+- !private ["10bms_mobile22RNBarLineChartViewBaseC", "init"]
+- !private ["10bms_mobile15RNChartViewBaseC", "init"]
+- ["10bms_mobile18RNLineChartManagerC", "Bool"]
+- ["10bms_mobile18RNLineChartManagerC", "NSNumber"]
+- ["10bms_mobile18RNLineChartManagerC", "NSString"]
+- ["10bms_mobile18RNLineChartManagerC", "RCTBridge"]
+- !private ["10bms_mobile18RNLineChartManagerC", "RNBarLineChartBaseManager"]
+- !private ["10bms_mobile18RNLineChartManagerC", "RNLineChartView"]
+- ["10bms_mobile18RNLineChartManagerC", "UIView"]
+- ["10bms_mobile18RNLineChartManagerC", "_bridge"]
+- !private ["10bms_mobile18RNLineChartManagerC", "bridge"]
+- ["10bms_mobile18RNLineChartManagerC", "centerViewTo"]
+- ["10bms_mobile18RNLineChartManagerC", "centerViewToAnimated"]
+- ["10bms_mobile18RNLineChartManagerC", "deinit"]
+- ["10bms_mobile18RNLineChartManagerC", "fitScreen"]
+- ["10bms_mobile18RNLineChartManagerC", "init"]
+- ["10bms_mobile18RNLineChartManagerC", "moveViewTo"]
+- ["10bms_mobile18RNLineChartManagerC", "moveViewToAnimated"]
+- ["10bms_mobile18RNLineChartManagerC", "moveViewToX"]
+- ["10bms_mobile18RNLineChartManagerC", "requiresMainQueueSetup"]
+- ["10bms_mobile18RNLineChartManagerC", "view"]
+- !private ["10bms_mobile15RNLineChartViewC", "init"]
+- !private ["10bms_mobile20RNYAxisChartViewBaseC", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So17UICoordinateSpaceP", "init"]
+- !private ["So13UIDynamicItemP", "init"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So11UIResponderC", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So6UIViewC", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "RNLineChartView"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- ["10Foundation27_KeyValueCodingAndObservingP", "_bridge"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "bridge"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+depends-nominal:
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "6Charts17ChartViewDelegateP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "s9EquatableP"
+- "s8HashableP"
+- !private "So8NSCodingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- "So15RCTBridgeModuleP"
+- !private "So12RCTComponentP"
+- "So14RCTViewManagerC"
+- "10bms_mobile25RNBarLineChartBaseManagerP"
+- !private "10bms_mobile22RNBarLineChartViewBaseC"
+- !private "10bms_mobile15RNChartViewBaseC"
+- "10bms_mobile18RNLineChartManagerC"
+- !private "10bms_mobile15RNLineChartViewC"
+- !private "10bms_mobile20RNYAxisChartViewBaseC"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- !private "So21UIAppearanceContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So30UIPasteConfigurationSupportingP"
+- !private "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So18UITraitEnvironmentP"
+- !private "So6UIViewC"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.swiftmodule/x86_64.swiftmodule"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/Charts/Charts.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/bms_mobile-Bridging-Header.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFont.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.modulemap"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/Charts/Charts.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "640bf5742e7b8fb40104f5139e6e0d4d"

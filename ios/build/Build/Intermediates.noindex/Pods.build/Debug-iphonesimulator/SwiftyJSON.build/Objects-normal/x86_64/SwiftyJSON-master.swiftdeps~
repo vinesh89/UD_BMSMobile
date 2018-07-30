@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "519712478093b9dcf717df7442a2975f"
+build_time: [1531667770, 243400000]
+inputs:
+  "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/Pods/SwiftyJSON/Source/SwiftyJSON.swift": [1531159526, 0]

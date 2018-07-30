@@ -1,0 +1,319 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "RNBarChartViewBase"
+provides-nominal:
+- "10bms_mobile18RNBarChartViewBaseC"
+provides-member:
+- ["10bms_mobile18RNBarChartViewBaseC", ""]
+provides-dynamic-lookup:
+- "setDrawBarShadow"
+- "setDrawValueAboveBar"
+depends-top-level:
+- "AssignmentPrecedence"
+- "BarChartView"
+- "Bool"
+- "CastingPrecedence"
+- "RNBarChartViewBase"
+- "RNBarLineChartViewBase"
+depends-member:
+- !private ["6Charts16AnimatorDelegateP", "drawBarShadowEnabled"]
+- !private ["6Charts16AnimatorDelegateP", "drawValueAboveBarEnabled"]
+- !private ["6Charts20BarChartDataProviderP", "drawBarShadowEnabled"]
+- !private ["6Charts20BarChartDataProviderP", "drawValueAboveBarEnabled"]
+- !private ["6Charts12BarChartViewC", "drawBarShadowEnabled"]
+- !private ["6Charts12BarChartViewC", "drawValueAboveBarEnabled"]
+- !private ["6Charts20BarLineChartViewBaseC", "drawBarShadowEnabled"]
+- !private ["6Charts20BarLineChartViewBaseC", "drawValueAboveBarEnabled"]
+- !private ["6Charts43BarLineScatterCandleBubbleChartDataProviderP", "drawBarShadowEnabled"]
+- !private ["6Charts43BarLineScatterCandleBubbleChartDataProviderP", "drawValueAboveBarEnabled"]
+- ["So15CALayerDelegateP", ""]
+- !private ["So15CALayerDelegateP", "barChart"]
+- !private ["So15CALayerDelegateP", "chart"]
+- !private ["So15CALayerDelegateP", "drawBarShadowEnabled"]
+- !private ["So15CALayerDelegateP", "drawValueAboveBarEnabled"]
+- !private ["So15CALayerDelegateP", "init"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "barChart"]
+- !private ["s7CVarArgP", "chart"]
+- !private ["s7CVarArgP", "drawBarShadowEnabled"]
+- !private ["s7CVarArgP", "drawValueAboveBarEnabled"]
+- !private ["s7CVarArgP", "init"]
+- !private ["6Charts17ChartDataProviderP", "drawBarShadowEnabled"]
+- !private ["6Charts17ChartDataProviderP", "drawValueAboveBarEnabled"]
+- !private ["6Charts13ChartViewBaseC", "drawBarShadowEnabled"]
+- !private ["6Charts13ChartViewBaseC", "drawValueAboveBarEnabled"]
+- ["6Charts17ChartViewDelegateP", ""]
+- !private ["6Charts17ChartViewDelegateP", "barChart"]
+- !private ["6Charts17ChartViewDelegateP", "chart"]
+- !private ["6Charts17ChartViewDelegateP", "init"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "barChart"]
+- !private ["s28CustomDebugStringConvertibleP", "chart"]
+- !private ["s28CustomDebugStringConvertibleP", "drawBarShadowEnabled"]
+- !private ["s28CustomDebugStringConvertibleP", "drawValueAboveBarEnabled"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "barChart"]
+- !private ["s23CustomStringConvertibleP", "chart"]
+- !private ["s23CustomStringConvertibleP", "drawBarShadowEnabled"]
+- !private ["s23CustomStringConvertibleP", "drawValueAboveBarEnabled"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- ["s9EquatableP", ""]
+- !private ["s9EquatableP", "barChart"]
+- !private ["s9EquatableP", "chart"]
+- !private ["s9EquatableP", "drawBarShadowEnabled"]
+- !private ["s9EquatableP", "drawValueAboveBarEnabled"]
+- !private ["s9EquatableP", "init"]
+- ["s8HashableP", ""]
+- !private ["s8HashableP", "barChart"]
+- !private ["s8HashableP", "chart"]
+- !private ["s8HashableP", "drawBarShadowEnabled"]
+- !private ["s8HashableP", "drawValueAboveBarEnabled"]
+- !private ["s8HashableP", "init"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "barChart"]
+- !private ["So8NSCodingP", "chart"]
+- !private ["So8NSCodingP", "drawBarShadowEnabled"]
+- !private ["So8NSCodingP", "drawValueAboveBarEnabled"]
+- !private ["So8NSCodingP", "init"]
+- ["So8NSObjectC", "BarChartView"]
+- ["So8NSObjectC", "Bool"]
+- ["So8NSObjectC", "barChart"]
+- !private ["So8NSObjectC", "chart"]
+- !private ["So8NSObjectC", "drawBarShadowEnabled"]
+- !private ["So8NSObjectC", "drawValueAboveBarEnabled"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "setDrawBarShadow"]
+- ["So8NSObjectC", "setDrawValueAboveBar"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["So16NSObjectProtocolP", "barChart"]
+- !private ["So16NSObjectProtocolP", "chart"]
+- !private ["So16NSObjectProtocolP", "drawBarShadowEnabled"]
+- !private ["So16NSObjectProtocolP", "drawValueAboveBarEnabled"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["6Charts8NSUIViewC", "drawBarShadowEnabled"]
+- !private ["6Charts8NSUIViewC", "drawValueAboveBarEnabled"]
+- ["So12RCTComponentP", ""]
+- !private ["So12RCTComponentP", "barChart"]
+- !private ["So12RCTComponentP", "chart"]
+- !private ["So12RCTComponentP", "drawBarShadowEnabled"]
+- !private ["So12RCTComponentP", "drawValueAboveBarEnabled"]
+- !private ["So12RCTComponentP", "init"]
+- ["10bms_mobile18RNBarChartViewBaseC", "BarChartView"]
+- ["10bms_mobile18RNBarChartViewBaseC", "Bool"]
+- !private ["10bms_mobile18RNBarChartViewBaseC", "barChart"]
+- !private ["10bms_mobile18RNBarChartViewBaseC", "chart"]
+- ["10bms_mobile18RNBarChartViewBaseC", "deinit"]
+- ["10bms_mobile18RNBarChartViewBaseC", "init"]
+- ["10bms_mobile18RNBarChartViewBaseC", "setDrawBarShadow"]
+- ["10bms_mobile18RNBarChartViewBaseC", "setDrawValueAboveBar"]
+- ["10bms_mobile22RNBarLineChartViewBaseC", "BarChartView"]
+- ["10bms_mobile22RNBarLineChartViewBaseC", "Bool"]
+- ["10bms_mobile22RNBarLineChartViewBaseC", ""]
+- ["10bms_mobile22RNBarLineChartViewBaseC", "barChart"]
+- !private ["10bms_mobile22RNBarLineChartViewBaseC", "chart"]
+- ["10bms_mobile22RNBarLineChartViewBaseC", "init"]
+- ["10bms_mobile22RNBarLineChartViewBaseC", "setDrawBarShadow"]
+- ["10bms_mobile22RNBarLineChartViewBaseC", "setDrawValueAboveBar"]
+- ["10bms_mobile15RNChartViewBaseC", "BarChartView"]
+- ["10bms_mobile15RNChartViewBaseC", "Bool"]
+- ["10bms_mobile15RNChartViewBaseC", "barChart"]
+- !private ["10bms_mobile15RNChartViewBaseC", "chart"]
+- ["10bms_mobile15RNChartViewBaseC", "init"]
+- ["10bms_mobile15RNChartViewBaseC", "setDrawBarShadow"]
+- ["10bms_mobile15RNChartViewBaseC", "setDrawValueAboveBar"]
+- ["10bms_mobile20RNYAxisChartViewBaseC", "BarChartView"]
+- ["10bms_mobile20RNYAxisChartViewBaseC", "Bool"]
+- ["10bms_mobile20RNYAxisChartViewBaseC", "barChart"]
+- !private ["10bms_mobile20RNYAxisChartViewBaseC", "chart"]
+- ["10bms_mobile20RNYAxisChartViewBaseC", "init"]
+- ["10bms_mobile20RNYAxisChartViewBaseC", "setDrawBarShadow"]
+- ["10bms_mobile20RNYAxisChartViewBaseC", "setDrawValueAboveBar"]
+- ["So29UIAccessibilityIdentificationP", ""]
+- !private ["So29UIAccessibilityIdentificationP", "barChart"]
+- !private ["So29UIAccessibilityIdentificationP", "chart"]
+- !private ["So29UIAccessibilityIdentificationP", "drawBarShadowEnabled"]
+- !private ["So29UIAccessibilityIdentificationP", "drawValueAboveBarEnabled"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- ["So12UIAppearanceP", ""]
+- !private ["So12UIAppearanceP", "barChart"]
+- !private ["So12UIAppearanceP", "chart"]
+- !private ["So12UIAppearanceP", "drawBarShadowEnabled"]
+- !private ["So12UIAppearanceP", "drawValueAboveBarEnabled"]
+- !private ["So12UIAppearanceP", "init"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "barChart"]
+- !private ["So21UIAppearanceContainerP", "chart"]
+- !private ["So21UIAppearanceContainerP", "drawBarShadowEnabled"]
+- !private ["So21UIAppearanceContainerP", "drawValueAboveBarEnabled"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- ["So17UICoordinateSpaceP", ""]
+- !private ["So17UICoordinateSpaceP", "barChart"]
+- !private ["So17UICoordinateSpaceP", "chart"]
+- !private ["So17UICoordinateSpaceP", "drawBarShadowEnabled"]
+- !private ["So17UICoordinateSpaceP", "drawValueAboveBarEnabled"]
+- !private ["So17UICoordinateSpaceP", "init"]
+- ["So13UIDynamicItemP", ""]
+- !private ["So13UIDynamicItemP", "barChart"]
+- !private ["So13UIDynamicItemP", "chart"]
+- !private ["So13UIDynamicItemP", "drawBarShadowEnabled"]
+- !private ["So13UIDynamicItemP", "drawValueAboveBarEnabled"]
+- !private ["So13UIDynamicItemP", "init"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "barChart"]
+- !private ["So18UIFocusEnvironmentP", "chart"]
+- !private ["So18UIFocusEnvironmentP", "drawBarShadowEnabled"]
+- !private ["So18UIFocusEnvironmentP", "drawValueAboveBarEnabled"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- ["So11UIFocusItemP", ""]
+- !private ["So11UIFocusItemP", "barChart"]
+- !private ["So11UIFocusItemP", "chart"]
+- !private ["So11UIFocusItemP", "drawBarShadowEnabled"]
+- !private ["So11UIFocusItemP", "drawValueAboveBarEnabled"]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So27UIGestureRecognizerDelegateP", "drawBarShadowEnabled"]
+- !private ["So27UIGestureRecognizerDelegateP", "drawValueAboveBarEnabled"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "barChart"]
+- !private ["So30UIPasteConfigurationSupportingP", "chart"]
+- !private ["So30UIPasteConfigurationSupportingP", "drawBarShadowEnabled"]
+- !private ["So30UIPasteConfigurationSupportingP", "drawValueAboveBarEnabled"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- ["So11UIResponderC", "BarChartView"]
+- ["So11UIResponderC", "Bool"]
+- ["So11UIResponderC", "barChart"]
+- !private ["So11UIResponderC", "chart"]
+- !private ["So11UIResponderC", "drawBarShadowEnabled"]
+- !private ["So11UIResponderC", "drawValueAboveBarEnabled"]
+- ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "setDrawBarShadow"]
+- ["So11UIResponderC", "setDrawValueAboveBar"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "barChart"]
+- !private ["So30UIResponderStandardEditActionsP", "chart"]
+- !private ["So30UIResponderStandardEditActionsP", "drawBarShadowEnabled"]
+- !private ["So30UIResponderStandardEditActionsP", "drawValueAboveBarEnabled"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "barChart"]
+- !private ["So18UITraitEnvironmentP", "chart"]
+- !private ["So18UITraitEnvironmentP", "drawBarShadowEnabled"]
+- !private ["So18UITraitEnvironmentP", "drawValueAboveBarEnabled"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- ["So6UIViewC", "BarChartView"]
+- ["So6UIViewC", "Bool"]
+- ["So6UIViewC", "barChart"]
+- !private ["So6UIViewC", "chart"]
+- !private ["So6UIViewC", "drawBarShadowEnabled"]
+- !private ["So6UIViewC", "drawValueAboveBarEnabled"]
+- ["So6UIViewC", "init"]
+- ["So6UIViewC", "setDrawBarShadow"]
+- ["So6UIViewC", "setDrawValueAboveBar"]
+- ["s37_DefaultCustomPlaygroundQuickLookableP", ""]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "barChart"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "chart"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "drawBarShadowEnabled"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "drawValueAboveBarEnabled"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "init"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "barChart"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "chart"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "drawBarShadowEnabled"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "drawValueAboveBarEnabled"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+depends-nominal:
+- !private "6Charts16AnimatorDelegateP"
+- !private "6Charts20BarChartDataProviderP"
+- !private "6Charts12BarChartViewC"
+- !private "6Charts20BarLineChartViewBaseC"
+- !private "6Charts43BarLineScatterCandleBubbleChartDataProviderP"
+- "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "6Charts17ChartDataProviderP"
+- !private "6Charts13ChartViewBaseC"
+- "6Charts17ChartViewDelegateP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "s9EquatableP"
+- "s8HashableP"
+- "So8NSCodingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- !private "6Charts8NSUIViewC"
+- "So12RCTComponentP"
+- "10bms_mobile18RNBarChartViewBaseC"
+- "10bms_mobile22RNBarLineChartViewBaseC"
+- "10bms_mobile15RNChartViewBaseC"
+- "10bms_mobile20RNYAxisChartViewBaseC"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- !private "So27UIGestureRecognizerDelegateP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So18UITraitEnvironmentP"
+- "So6UIViewC"
+- "s37_DefaultCustomPlaygroundQuickLookableP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.swiftmodule/x86_64.swiftmodule"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/Charts/Charts.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/bms_mobile-Bridging-Header.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFont.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.modulemap"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/Charts/Charts.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "53205cb4a066bec3a857a9ef7b3c923c"

@@ -1,0 +1,424 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "RNBarLineChartBaseManager"
+provides-nominal:
+- "10bms_mobile25RNBarLineChartBaseManagerP"
+provides-member:
+- ["10bms_mobile25RNBarLineChartBaseManagerP", ""]
+- ["10bms_mobile25RNBarLineChartBaseManagerP", "_moveViewToX"]
+- ["10bms_mobile25RNBarLineChartBaseManagerP", "_moveViewTo"]
+- ["10bms_mobile25RNBarLineChartBaseManagerP", "_moveViewToAnimated"]
+- ["10bms_mobile25RNBarLineChartBaseManagerP", "_centerViewTo"]
+- ["10bms_mobile25RNBarLineChartBaseManagerP", "_centerViewToAnimated"]
+- ["10bms_mobile25RNBarLineChartBaseManagerP", "_fitScreen"]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "/"
+- !private "BarLineChartViewBase"
+- !private "BridgeUtils"
+- !private "CastingPrecedence"
+- "NSNumber"
+- "NSString"
+- "RCTBridge"
+- !private "RCTUIManager"
+- "RNBarLineChartBaseManager"
+- !private "RNBarLineChartViewBase"
+- !private "String"
+- !private "UIView"
+depends-member:
+- !private ["6Charts16AnimatorDelegateP", "centerViewTo"]
+- !private ["6Charts16AnimatorDelegateP", "centerViewToAnimated"]
+- !private ["6Charts16AnimatorDelegateP", "fitScreen"]
+- !private ["6Charts16AnimatorDelegateP", "moveViewTo"]
+- !private ["6Charts16AnimatorDelegateP", "moveViewToAnimated"]
+- !private ["6Charts16AnimatorDelegateP", "moveViewToX"]
+- !private ["6Charts20BarLineChartViewBaseC", "centerViewTo"]
+- !private ["6Charts20BarLineChartViewBaseC", "centerViewToAnimated"]
+- !private ["6Charts20BarLineChartViewBaseC", "fitScreen"]
+- !private ["6Charts20BarLineChartViewBaseC", "moveViewTo"]
+- !private ["6Charts20BarLineChartViewBaseC", "moveViewToAnimated"]
+- !private ["6Charts20BarLineChartViewBaseC", "moveViewToX"]
+- !private ["6Charts43BarLineScatterCandleBubbleChartDataProviderP", "centerViewTo"]
+- !private ["6Charts43BarLineScatterCandleBubbleChartDataProviderP", "centerViewToAnimated"]
+- !private ["6Charts43BarLineScatterCandleBubbleChartDataProviderP", "fitScreen"]
+- !private ["6Charts43BarLineScatterCandleBubbleChartDataProviderP", "moveViewTo"]
+- !private ["6Charts43BarLineScatterCandleBubbleChartDataProviderP", "moveViewToAnimated"]
+- !private ["6Charts43BarLineScatterCandleBubbleChartDataProviderP", "moveViewToX"]
+- !private ["10bms_mobile11BridgeUtilsC", "parseAxisDependency"]
+- !private ["So15CALayerDelegateP", "centerViewTo"]
+- !private ["So15CALayerDelegateP", "centerViewToAnimated"]
+- !private ["So15CALayerDelegateP", "chart"]
+- !private ["So15CALayerDelegateP", "fitScreen"]
+- !private ["So15CALayerDelegateP", "moveViewTo"]
+- !private ["So15CALayerDelegateP", "moveViewToAnimated"]
+- !private ["So15CALayerDelegateP", "moveViewToX"]
+- !private ["s7CVarArgP", "addUIBlock"]
+- !private ["s7CVarArgP", "centerViewTo"]
+- !private ["s7CVarArgP", "centerViewToAnimated"]
+- !private ["s7CVarArgP", "chart"]
+- !private ["s7CVarArgP", "doubleValue"]
+- !private ["s7CVarArgP", "fitScreen"]
+- !private ["s7CVarArgP", "moveViewTo"]
+- !private ["s7CVarArgP", "moveViewToAnimated"]
+- !private ["s7CVarArgP", "moveViewToX"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s7CVarArgP", "uiManager"]
+- !private ["6Charts17ChartDataProviderP", "centerViewTo"]
+- !private ["6Charts17ChartDataProviderP", "centerViewToAnimated"]
+- !private ["6Charts17ChartDataProviderP", "fitScreen"]
+- !private ["6Charts17ChartDataProviderP", "moveViewTo"]
+- !private ["6Charts17ChartDataProviderP", "moveViewToAnimated"]
+- !private ["6Charts17ChartDataProviderP", "moveViewToX"]
+- !private ["6Charts13ChartViewBaseC", "centerViewTo"]
+- !private ["6Charts13ChartViewBaseC", "centerViewToAnimated"]
+- !private ["6Charts13ChartViewBaseC", "fitScreen"]
+- !private ["6Charts13ChartViewBaseC", "moveViewTo"]
+- !private ["6Charts13ChartViewBaseC", "moveViewToAnimated"]
+- !private ["6Charts13ChartViewBaseC", "moveViewToX"]
+- !private ["6Charts17ChartViewDelegateP", "chart"]
+- !private ["s10CollectionP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "addUIBlock"]
+- !private ["s28CustomDebugStringConvertibleP", "centerViewTo"]
+- !private ["s28CustomDebugStringConvertibleP", "centerViewToAnimated"]
+- !private ["s28CustomDebugStringConvertibleP", "chart"]
+- !private ["s28CustomDebugStringConvertibleP", "doubleValue"]
+- !private ["s28CustomDebugStringConvertibleP", "fitScreen"]
+- !private ["s28CustomDebugStringConvertibleP", "moveViewTo"]
+- !private ["s28CustomDebugStringConvertibleP", "moveViewToAnimated"]
+- !private ["s28CustomDebugStringConvertibleP", "moveViewToX"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "uiManager"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "addUIBlock"]
+- !private ["s23CustomStringConvertibleP", "centerViewTo"]
+- !private ["s23CustomStringConvertibleP", "centerViewToAnimated"]
+- !private ["s23CustomStringConvertibleP", "chart"]
+- !private ["s23CustomStringConvertibleP", "doubleValue"]
+- !private ["s23CustomStringConvertibleP", "fitScreen"]
+- !private ["s23CustomStringConvertibleP", "moveViewTo"]
+- !private ["s23CustomStringConvertibleP", "moveViewToAnimated"]
+- !private ["s23CustomStringConvertibleP", "moveViewToX"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "uiManager"]
+- !private ["s9DecodableP", "subscript"]
+- !private ["s10DictionaryV", "subscript"]
+- !private ["s9EncodableP", "subscript"]
+- !private ["s9EquatableP", "addUIBlock"]
+- !private ["s9EquatableP", "centerViewTo"]
+- !private ["s9EquatableP", "centerViewToAnimated"]
+- !private ["s9EquatableP", "chart"]
+- !private ["s9EquatableP", "doubleValue"]
+- !private ["s9EquatableP", "fitScreen"]
+- !private ["s9EquatableP", "moveViewTo"]
+- !private ["s9EquatableP", "moveViewToAnimated"]
+- !private ["s9EquatableP", "moveViewToX"]
+- !private ["s9EquatableP", "subscript"]
+- !private ["s9EquatableP", "uiManager"]
+- !private ["s27ExpressibleByBooleanLiteralP", "doubleValue"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["s25ExpressibleByFloatLiteralP", "doubleValue"]
+- !private ["s27ExpressibleByIntegerLiteralP", "doubleValue"]
+- !private ["s8HashableP", "addUIBlock"]
+- !private ["s8HashableP", "centerViewTo"]
+- !private ["s8HashableP", "centerViewToAnimated"]
+- !private ["s8HashableP", "chart"]
+- !private ["s8HashableP", "doubleValue"]
+- !private ["s8HashableP", "fitScreen"]
+- !private ["s8HashableP", "moveViewTo"]
+- !private ["s8HashableP", "moveViewToAnimated"]
+- !private ["s8HashableP", "moveViewToX"]
+- !private ["s8HashableP", "uiManager"]
+- !private ["So8NSCodingP", "centerViewTo"]
+- !private ["So8NSCodingP", "centerViewToAnimated"]
+- !private ["So8NSCodingP", "chart"]
+- !private ["So8NSCodingP", "doubleValue"]
+- !private ["So8NSCodingP", "fitScreen"]
+- !private ["So8NSCodingP", "moveViewTo"]
+- !private ["So8NSCodingP", "moveViewToAnimated"]
+- !private ["So8NSCodingP", "moveViewToX"]
+- !private ["So9NSCopyingP", "doubleValue"]
+- !private ["So8NSNumberC", "doubleValue"]
+- !private ["So8NSObjectC", "addUIBlock"]
+- !private ["So8NSObjectC", "centerViewTo"]
+- !private ["So8NSObjectC", "centerViewToAnimated"]
+- !private ["So8NSObjectC", "chart"]
+- !private ["So8NSObjectC", "doubleValue"]
+- !private ["So8NSObjectC", "fitScreen"]
+- !private ["So8NSObjectC", "moveViewTo"]
+- !private ["So8NSObjectC", "moveViewToAnimated"]
+- !private ["So8NSObjectC", "moveViewToX"]
+- !private ["So8NSObjectC", "uiManager"]
+- !private ["So16NSObjectProtocolP", "addUIBlock"]
+- !private ["So16NSObjectProtocolP", "centerViewTo"]
+- !private ["So16NSObjectProtocolP", "centerViewToAnimated"]
+- !private ["So16NSObjectProtocolP", "chart"]
+- !private ["So16NSObjectProtocolP", "doubleValue"]
+- !private ["So16NSObjectProtocolP", "fitScreen"]
+- !private ["So16NSObjectProtocolP", "moveViewTo"]
+- !private ["So16NSObjectProtocolP", "moveViewToAnimated"]
+- !private ["So16NSObjectProtocolP", "moveViewToX"]
+- !private ["So16NSObjectProtocolP", "uiManager"]
+- !private ["So14NSSecureCodingP", "doubleValue"]
+- !private ["6Charts8NSUIViewC", "centerViewTo"]
+- !private ["6Charts8NSUIViewC", "centerViewToAnimated"]
+- !private ["6Charts8NSUIViewC", "fitScreen"]
+- !private ["6Charts8NSUIViewC", "moveViewTo"]
+- !private ["6Charts8NSUIViewC", "moveViewToAnimated"]
+- !private ["6Charts8NSUIViewC", "moveViewToX"]
+- !private ["So7NSValueC", "doubleValue"]
+- !private ["So9RCTBridgeC", "uiManager"]
+- !private ["So15RCTBridgeModuleP", "addUIBlock"]
+- !private ["So12RCTComponentP", "centerViewTo"]
+- !private ["So12RCTComponentP", "centerViewToAnimated"]
+- !private ["So12RCTComponentP", "chart"]
+- !private ["So12RCTComponentP", "fitScreen"]
+- !private ["So12RCTComponentP", "moveViewTo"]
+- !private ["So12RCTComponentP", "moveViewToAnimated"]
+- !private ["So12RCTComponentP", "moveViewToX"]
+- !private ["So15RCTInvalidatingP", "addUIBlock"]
+- !private ["So15RCTInvalidatingP", "uiManager"]
+- !private ["So12RCTUIManagerC", "addUIBlock"]
+- !private ["10bms_mobile25RNBarLineChartBaseManagerP", "BarLineChartViewBase"]
+- !private ["10bms_mobile25RNBarLineChartBaseManagerP", "BridgeUtils"]
+- ["10bms_mobile25RNBarLineChartBaseManagerP", "NSNumber"]
+- ["10bms_mobile25RNBarLineChartBaseManagerP", "NSString"]
+- ["10bms_mobile25RNBarLineChartBaseManagerP", "RCTBridge"]
+- !private ["10bms_mobile25RNBarLineChartBaseManagerP", "RCTUIManager"]
+- !private ["10bms_mobile25RNBarLineChartBaseManagerP", "RNBarLineChartViewBase"]
+- !private ["10bms_mobile25RNBarLineChartBaseManagerP", "String"]
+- !private ["10bms_mobile25RNBarLineChartBaseManagerP", "UIView"]
+- ["10bms_mobile25RNBarLineChartBaseManagerP", "_bridge"]
+- ["10bms_mobile25RNBarLineChartBaseManagerP", "_centerViewTo"]
+- ["10bms_mobile25RNBarLineChartBaseManagerP", "_centerViewToAnimated"]
+- ["10bms_mobile25RNBarLineChartBaseManagerP", "_fitScreen"]
+- ["10bms_mobile25RNBarLineChartBaseManagerP", "_moveViewTo"]
+- ["10bms_mobile25RNBarLineChartBaseManagerP", "_moveViewToAnimated"]
+- ["10bms_mobile25RNBarLineChartBaseManagerP", "_moveViewToX"]
+- !private ["10bms_mobile22RNBarLineChartViewBaseC", "chart"]
+- !private ["10bms_mobile15RNChartViewBaseC", "chart"]
+- !private ["10bms_mobile20RNYAxisChartViewBaseC", "chart"]
+- !private ["s8SequenceP", "subscript"]
+- !private ["So29UIAccessibilityIdentificationP", "centerViewTo"]
+- !private ["So29UIAccessibilityIdentificationP", "centerViewToAnimated"]
+- !private ["So29UIAccessibilityIdentificationP", "chart"]
+- !private ["So29UIAccessibilityIdentificationP", "fitScreen"]
+- !private ["So29UIAccessibilityIdentificationP", "moveViewTo"]
+- !private ["So29UIAccessibilityIdentificationP", "moveViewToAnimated"]
+- !private ["So29UIAccessibilityIdentificationP", "moveViewToX"]
+- !private ["So12UIAppearanceP", "centerViewTo"]
+- !private ["So12UIAppearanceP", "centerViewToAnimated"]
+- !private ["So12UIAppearanceP", "chart"]
+- !private ["So12UIAppearanceP", "fitScreen"]
+- !private ["So12UIAppearanceP", "moveViewTo"]
+- !private ["So12UIAppearanceP", "moveViewToAnimated"]
+- !private ["So12UIAppearanceP", "moveViewToX"]
+- !private ["So21UIAppearanceContainerP", "centerViewTo"]
+- !private ["So21UIAppearanceContainerP", "centerViewToAnimated"]
+- !private ["So21UIAppearanceContainerP", "chart"]
+- !private ["So21UIAppearanceContainerP", "fitScreen"]
+- !private ["So21UIAppearanceContainerP", "moveViewTo"]
+- !private ["So21UIAppearanceContainerP", "moveViewToAnimated"]
+- !private ["So21UIAppearanceContainerP", "moveViewToX"]
+- !private ["So17UICoordinateSpaceP", "centerViewTo"]
+- !private ["So17UICoordinateSpaceP", "centerViewToAnimated"]
+- !private ["So17UICoordinateSpaceP", "chart"]
+- !private ["So17UICoordinateSpaceP", "fitScreen"]
+- !private ["So17UICoordinateSpaceP", "moveViewTo"]
+- !private ["So17UICoordinateSpaceP", "moveViewToAnimated"]
+- !private ["So17UICoordinateSpaceP", "moveViewToX"]
+- !private ["So13UIDynamicItemP", "centerViewTo"]
+- !private ["So13UIDynamicItemP", "centerViewToAnimated"]
+- !private ["So13UIDynamicItemP", "chart"]
+- !private ["So13UIDynamicItemP", "fitScreen"]
+- !private ["So13UIDynamicItemP", "moveViewTo"]
+- !private ["So13UIDynamicItemP", "moveViewToAnimated"]
+- !private ["So13UIDynamicItemP", "moveViewToX"]
+- !private ["So18UIFocusEnvironmentP", "centerViewTo"]
+- !private ["So18UIFocusEnvironmentP", "centerViewToAnimated"]
+- !private ["So18UIFocusEnvironmentP", "chart"]
+- !private ["So18UIFocusEnvironmentP", "fitScreen"]
+- !private ["So18UIFocusEnvironmentP", "moveViewTo"]
+- !private ["So18UIFocusEnvironmentP", "moveViewToAnimated"]
+- !private ["So18UIFocusEnvironmentP", "moveViewToX"]
+- !private ["So11UIFocusItemP", "centerViewTo"]
+- !private ["So11UIFocusItemP", "centerViewToAnimated"]
+- !private ["So11UIFocusItemP", "chart"]
+- !private ["So11UIFocusItemP", "fitScreen"]
+- !private ["So11UIFocusItemP", "moveViewTo"]
+- !private ["So11UIFocusItemP", "moveViewToAnimated"]
+- !private ["So11UIFocusItemP", "moveViewToX"]
+- !private ["So27UIGestureRecognizerDelegateP", "centerViewTo"]
+- !private ["So27UIGestureRecognizerDelegateP", "centerViewToAnimated"]
+- !private ["So27UIGestureRecognizerDelegateP", "fitScreen"]
+- !private ["So27UIGestureRecognizerDelegateP", "moveViewTo"]
+- !private ["So27UIGestureRecognizerDelegateP", "moveViewToAnimated"]
+- !private ["So27UIGestureRecognizerDelegateP", "moveViewToX"]
+- !private ["So30UIPasteConfigurationSupportingP", "centerViewTo"]
+- !private ["So30UIPasteConfigurationSupportingP", "centerViewToAnimated"]
+- !private ["So30UIPasteConfigurationSupportingP", "chart"]
+- !private ["So30UIPasteConfigurationSupportingP", "fitScreen"]
+- !private ["So30UIPasteConfigurationSupportingP", "moveViewTo"]
+- !private ["So30UIPasteConfigurationSupportingP", "moveViewToAnimated"]
+- !private ["So30UIPasteConfigurationSupportingP", "moveViewToX"]
+- !private ["So11UIResponderC", "centerViewTo"]
+- !private ["So11UIResponderC", "centerViewToAnimated"]
+- !private ["So11UIResponderC", "chart"]
+- !private ["So11UIResponderC", "fitScreen"]
+- !private ["So11UIResponderC", "moveViewTo"]
+- !private ["So11UIResponderC", "moveViewToAnimated"]
+- !private ["So11UIResponderC", "moveViewToX"]
+- !private ["So30UIResponderStandardEditActionsP", "centerViewTo"]
+- !private ["So30UIResponderStandardEditActionsP", "centerViewToAnimated"]
+- !private ["So30UIResponderStandardEditActionsP", "chart"]
+- !private ["So30UIResponderStandardEditActionsP", "fitScreen"]
+- !private ["So30UIResponderStandardEditActionsP", "moveViewTo"]
+- !private ["So30UIResponderStandardEditActionsP", "moveViewToAnimated"]
+- !private ["So30UIResponderStandardEditActionsP", "moveViewToX"]
+- !private ["So18UITraitEnvironmentP", "centerViewTo"]
+- !private ["So18UITraitEnvironmentP", "centerViewToAnimated"]
+- !private ["So18UITraitEnvironmentP", "chart"]
+- !private ["So18UITraitEnvironmentP", "fitScreen"]
+- !private ["So18UITraitEnvironmentP", "moveViewTo"]
+- !private ["So18UITraitEnvironmentP", "moveViewToAnimated"]
+- !private ["So18UITraitEnvironmentP", "moveViewToX"]
+- !private ["So6UIViewC", "centerViewTo"]
+- !private ["So6UIViewC", "centerViewToAnimated"]
+- !private ["So6UIViewC", "chart"]
+- !private ["So6UIViewC", "fitScreen"]
+- !private ["So6UIViewC", "moveViewTo"]
+- !private ["So6UIViewC", "moveViewToAnimated"]
+- !private ["So6UIViewC", "moveViewToX"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "centerViewTo"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "centerViewToAnimated"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "chart"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "fitScreen"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "moveViewTo"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "moveViewToAnimated"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "moveViewToX"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "doubleValue"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addUIBlock"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "centerViewTo"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "centerViewToAnimated"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "chart"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "doubleValue"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "fitScreen"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "moveViewTo"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "moveViewToAnimated"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "moveViewToX"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "uiManager"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+depends-nominal:
+- !private "6Charts16AnimatorDelegateP"
+- !private "6Charts20BarLineChartViewBaseC"
+- !private "6Charts43BarLineScatterCandleBubbleChartDataProviderP"
+- !private "10bms_mobile11BridgeUtilsC"
+- !private "So15CALayerDelegateP"
+- !private "s7CVarArgP"
+- !private "6Charts17ChartDataProviderP"
+- !private "6Charts13ChartViewBaseC"
+- !private "6Charts17ChartViewDelegateP"
+- !private "s10CollectionP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s10DictionaryV"
+- !private "s9EncodableP"
+- !private "s9EquatableP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s8HashableP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So8NSNumberC"
+- !private "So8NSObjectC"
+- !private "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- !private "6Charts8NSUIViewC"
+- !private "So7NSValueC"
+- !private "So9RCTBridgeC"
+- !private "So15RCTBridgeModuleP"
+- !private "So12RCTComponentP"
+- !private "So15RCTInvalidatingP"
+- !private "So12RCTUIManagerC"
+- "10bms_mobile25RNBarLineChartBaseManagerP"
+- !private "10bms_mobile22RNBarLineChartViewBaseC"
+- !private "10bms_mobile15RNChartViewBaseC"
+- !private "10bms_mobile20RNYAxisChartViewBaseC"
+- !private "s8SequenceP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- !private "So21UIAppearanceContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So27UIGestureRecognizerDelegateP"
+- !private "So30UIPasteConfigurationSupportingP"
+- !private "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So18UITraitEnvironmentP"
+- !private "So6UIViewC"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.swiftmodule/x86_64.swiftmodule"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/Charts/Charts.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/bms_mobile-Bridging-Header.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFont.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.modulemap"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/Charts/Charts.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "8900ceb9216ba9265aa25e01b5a530e9"

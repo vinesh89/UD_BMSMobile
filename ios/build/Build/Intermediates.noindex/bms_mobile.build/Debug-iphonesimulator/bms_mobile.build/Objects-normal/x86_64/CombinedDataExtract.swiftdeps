@@ -1,0 +1,359 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "CombinedDataExtract"
+provides-nominal:
+- "10bms_mobile19CombinedDataExtractC"
+provides-member:
+- ["10bms_mobile19CombinedDataExtractC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!="
+- "AssignmentPrecedence"
+- !private "BarChartData"
+- "BarDataExtract"
+- !private "BubbleChartData"
+- "BubbleDataExtract"
+- !private "CandleChartData"
+- "CandleDataExtract"
+- "CastingPrecedence"
+- "ChartData"
+- "ChartDataEntry"
+- !private "CombinedChartData"
+- "CombinedDataExtract"
+- "DataExtract"
+- "IChartDataSet"
+- "Int"
+- "JSON"
+- !private "LineChartData"
+- "LineDataExtract"
+- !private "ScatterChartData"
+- "ScatterDataExtract"
+- "String"
+- !private "StringLiteralType"
+- !private "fatalError"
+depends-member:
+- !private ["10bms_mobile14BarDataExtractC", "extract"]
+- ["10bms_mobile14BarDataExtractC", "init"]
+- !private ["6Charts35BarLineScatterCandleBubbleChartDataC", "barData"]
+- !private ["6Charts35BarLineScatterCandleBubbleChartDataC", "bubbleData"]
+- !private ["6Charts35BarLineScatterCandleBubbleChartDataC", "candleData"]
+- !private ["6Charts35BarLineScatterCandleBubbleChartDataC", "init"]
+- !private ["6Charts35BarLineScatterCandleBubbleChartDataC", "lineData"]
+- !private ["6Charts35BarLineScatterCandleBubbleChartDataC", "scatterData"]
+- !private ["s23BidirectionalCollectionP", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["10bms_mobile17BubbleDataExtractC", "extract"]
+- ["10bms_mobile17BubbleDataExtractC", "init"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "barData"]
+- !private ["s7CVarArgP", "bubbleData"]
+- !private ["s7CVarArgP", "candleData"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "lineData"]
+- !private ["s7CVarArgP", "scatterData"]
+- !private ["10bms_mobile17CandleDataExtractC", "extract"]
+- ["10bms_mobile17CandleDataExtractC", "init"]
+- !private ["6Charts9ChartDataC", "barData"]
+- !private ["6Charts9ChartDataC", "bubbleData"]
+- !private ["6Charts9ChartDataC", "candleData"]
+- !private ["6Charts9ChartDataC", "init"]
+- !private ["6Charts9ChartDataC", "lineData"]
+- !private ["6Charts9ChartDataC", "scatterData"]
+- !private ["s10CollectionP", "init"]
+- !private ["s10CollectionP", "null"]
+- !private ["s10CollectionP", "subscript"]
+- !private ["6Charts17CombinedChartDataC", "barData"]
+- !private ["6Charts17CombinedChartDataC", "bubbleData"]
+- !private ["6Charts17CombinedChartDataC", "candleData"]
+- !private ["6Charts17CombinedChartDataC", "init"]
+- !private ["6Charts17CombinedChartDataC", "lineData"]
+- !private ["6Charts17CombinedChartDataC", "scatterData"]
+- !private ["10bms_mobile19CombinedDataExtractC", "BarChartData"]
+- ["10bms_mobile19CombinedDataExtractC", "BarDataExtract"]
+- !private ["10bms_mobile19CombinedDataExtractC", "BubbleChartData"]
+- ["10bms_mobile19CombinedDataExtractC", "BubbleDataExtract"]
+- !private ["10bms_mobile19CombinedDataExtractC", "CandleChartData"]
+- ["10bms_mobile19CombinedDataExtractC", "CandleDataExtract"]
+- ["10bms_mobile19CombinedDataExtractC", "ChartData"]
+- ["10bms_mobile19CombinedDataExtractC", "ChartDataEntry"]
+- !private ["10bms_mobile19CombinedDataExtractC", "CombinedChartData"]
+- ["10bms_mobile19CombinedDataExtractC", "IChartDataSet"]
+- ["10bms_mobile19CombinedDataExtractC", "Int"]
+- ["10bms_mobile19CombinedDataExtractC", "JSON"]
+- !private ["10bms_mobile19CombinedDataExtractC", "LineChartData"]
+- ["10bms_mobile19CombinedDataExtractC", "LineDataExtract"]
+- !private ["10bms_mobile19CombinedDataExtractC", "ScatterChartData"]
+- ["10bms_mobile19CombinedDataExtractC", "ScatterDataExtract"]
+- ["10bms_mobile19CombinedDataExtractC", "String"]
+- ["10bms_mobile19CombinedDataExtractC", "barDataExtract"]
+- ["10bms_mobile19CombinedDataExtractC", "bubbleDataExtract"]
+- ["10bms_mobile19CombinedDataExtractC", "candleDataExtract"]
+- ["10bms_mobile19CombinedDataExtractC", "createData"]
+- ["10bms_mobile19CombinedDataExtractC", "createDataSet"]
+- ["10bms_mobile19CombinedDataExtractC", "createEntries"]
+- ["10bms_mobile19CombinedDataExtractC", "createEntry"]
+- ["10bms_mobile19CombinedDataExtractC", "dataSetConfig"]
+- ["10bms_mobile19CombinedDataExtractC", "deinit"]
+- ["10bms_mobile19CombinedDataExtractC", "extract"]
+- !private ["10bms_mobile19CombinedDataExtractC", "fatalError"]
+- ["10bms_mobile19CombinedDataExtractC", "init"]
+- ["10bms_mobile19CombinedDataExtractC", "lineDataExtract"]
+- ["10bms_mobile19CombinedDataExtractC", "scatterDataExtract"]
+- !private ["s10ComparableP", "init"]
+- !private ["s10ComparableP", "null"]
+- !private ["s10ComparableP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "barData"]
+- !private ["s28CustomDebugStringConvertibleP", "bubbleData"]
+- !private ["s28CustomDebugStringConvertibleP", "candleData"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "lineData"]
+- !private ["s28CustomDebugStringConvertibleP", "null"]
+- !private ["s28CustomDebugStringConvertibleP", "scatterData"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "barData"]
+- !private ["s23CustomStringConvertibleP", "bubbleData"]
+- !private ["s23CustomStringConvertibleP", "candleData"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "lineData"]
+- !private ["s23CustomStringConvertibleP", "null"]
+- !private ["s23CustomStringConvertibleP", "scatterData"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["10bms_mobile11DataExtractC", "BarChartData"]
+- ["10bms_mobile11DataExtractC", "BarDataExtract"]
+- !private ["10bms_mobile11DataExtractC", "BubbleChartData"]
+- ["10bms_mobile11DataExtractC", "BubbleDataExtract"]
+- !private ["10bms_mobile11DataExtractC", "CandleChartData"]
+- ["10bms_mobile11DataExtractC", "CandleDataExtract"]
+- ["10bms_mobile11DataExtractC", "ChartData"]
+- ["10bms_mobile11DataExtractC", "ChartDataEntry"]
+- !private ["10bms_mobile11DataExtractC", "CombinedChartData"]
+- ["10bms_mobile11DataExtractC", "IChartDataSet"]
+- ["10bms_mobile11DataExtractC", "Int"]
+- ["10bms_mobile11DataExtractC", "JSON"]
+- !private ["10bms_mobile11DataExtractC", "LineChartData"]
+- ["10bms_mobile11DataExtractC", "LineDataExtract"]
+- !private ["10bms_mobile11DataExtractC", "ScatterChartData"]
+- ["10bms_mobile11DataExtractC", "ScatterDataExtract"]
+- ["10bms_mobile11DataExtractC", "String"]
+- ["10bms_mobile11DataExtractC", ""]
+- ["10bms_mobile11DataExtractC", "barDataExtract"]
+- ["10bms_mobile11DataExtractC", "bubbleDataExtract"]
+- ["10bms_mobile11DataExtractC", "candleDataExtract"]
+- ["10bms_mobile11DataExtractC", "createData"]
+- ["10bms_mobile11DataExtractC", "createDataSet"]
+- ["10bms_mobile11DataExtractC", "createEntries"]
+- ["10bms_mobile11DataExtractC", "createEntry"]
+- ["10bms_mobile11DataExtractC", "dataSetConfig"]
+- ["10bms_mobile11DataExtractC", "extract"]
+- !private ["10bms_mobile11DataExtractC", "fatalError"]
+- ["10bms_mobile11DataExtractC", "init"]
+- ["10bms_mobile11DataExtractC", "lineDataExtract"]
+- ["10bms_mobile11DataExtractC", "scatterDataExtract"]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "init"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "barData"]
+- !private ["s9EquatableP", "bubbleData"]
+- !private ["s9EquatableP", "candleData"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "lineData"]
+- !private ["s9EquatableP", "null"]
+- !private ["s9EquatableP", "scatterData"]
+- !private ["s9EquatableP", "subscript"]
+- !private ["s25ExpressibleByArrayLiteralP", "null"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s27ExpressibleByBooleanLiteralP", "null"]
+- !private ["s27ExpressibleByBooleanLiteralP", "subscript"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "null"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "null"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "subscript"]
+- !private ["s25ExpressibleByFloatLiteralP", "null"]
+- !private ["s25ExpressibleByFloatLiteralP", "subscript"]
+- !private ["s27ExpressibleByIntegerLiteralP", "null"]
+- !private ["s27ExpressibleByIntegerLiteralP", "subscript"]
+- !private ["s23ExpressibleByNilLiteralP", "null"]
+- !private ["s23ExpressibleByNilLiteralP", "subscript"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "null"]
+- !private ["s26ExpressibleByStringLiteralP", "subscript"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "null"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "subscript"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "barData"]
+- !private ["s8HashableP", "bubbleData"]
+- !private ["s8HashableP", "candleData"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "lineData"]
+- !private ["s8HashableP", "scatterData"]
+- !private ["10SwiftyJSON0B0V", "null"]
+- !private ["10SwiftyJSON0B0V", "subscript"]
+- !private ["10SwiftyJSON17JSONSubscriptTypeP", "init"]
+- !private ["10bms_mobile15LineDataExtractC", "extract"]
+- ["10bms_mobile15LineDataExtractC", "init"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSObjectC", "barData"]
+- !private ["So8NSObjectC", "bubbleData"]
+- !private ["So8NSObjectC", "candleData"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "lineData"]
+- !private ["So8NSObjectC", "scatterData"]
+- !private ["So16NSObjectProtocolP", "barData"]
+- !private ["So16NSObjectProtocolP", "bubbleData"]
+- !private ["So16NSObjectProtocolP", "candleData"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "lineData"]
+- !private ["So16NSObjectProtocolP", "scatterData"]
+- !private ["s26RangeReplaceableCollectionP", "init"]
+- !private ["s16RawRepresentableP", "null"]
+- !private ["s16RawRepresentableP", "subscript"]
+- !private ["10bms_mobile18ScatterDataExtractC", "extract"]
+- ["10bms_mobile18ScatterDataExtractC", "init"]
+- !private ["s8SequenceP", "init"]
+- !private ["s8SequenceP", "null"]
+- !private ["s8SequenceP", "subscript"]
+- !private ["s12StaticStringV", "init"]
+- !private ["SS", "init"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "barData"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "bubbleData"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "candleData"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "lineData"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "scatterData"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- "10bms_mobile14BarDataExtractC"
+- !private "6Charts35BarLineScatterCandleBubbleChartDataC"
+- !private "s23BidirectionalCollectionP"
+- !private "Sb"
+- "10bms_mobile17BubbleDataExtractC"
+- !private "s7CVarArgP"
+- "10bms_mobile17CandleDataExtractC"
+- !private "6Charts9ChartDataC"
+- !private "s10CollectionP"
+- !private "6Charts17CombinedChartDataC"
+- "10bms_mobile19CombinedDataExtractC"
+- !private "s10ComparableP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- "10bms_mobile11DataExtractC"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- !private "s9EquatableP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "s8HashableP"
+- !private "10SwiftyJSON0B0V"
+- !private "10SwiftyJSON17JSONSubscriptTypeP"
+- "10bms_mobile15LineDataExtractC"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "So8NSObjectC"
+- !private "So16NSObjectProtocolP"
+- !private "s26RangeReplaceableCollectionP"
+- !private "s16RawRepresentableP"
+- "10bms_mobile18ScatterDataExtractC"
+- !private "s8SequenceP"
+- !private "s12StaticStringV"
+- !private "SS"
+- !private "s14StringProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.swiftmodule/x86_64.swiftmodule"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/Charts/Charts.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/bms_mobile-Bridging-Header.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFont.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.modulemap"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/Charts/Charts.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "492bbbcc0403a5e9ab3ae7976e654007"

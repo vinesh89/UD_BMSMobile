@@ -1,0 +1,35 @@
+{
+  "partInfo": {
+    "partNumber": "5222771975",
+    "totalCapacity": "500",
+    "partName": "OIL FILTER",
+    "currentCapacity": null
+  },
+  "buffers": [{
+      "bufferID": "C903370A00",
+      "bufferName": "PrimeLocation1",
+      "currentCapacity": "",
+      "totalCapacity": "583",
+      "type": null
+    }
+  ]
+}
+
+/* {
+  "id": "1",
+  "warehouseLoc":"Ageo",
+  "partName":"Engine",
+  "partNumber":"562019012",
+  "operator": "Vinesh",
+  "partDescription":"UD Truck Engine",
+  "country":"Japan",
+  "primary_Inventory":{
+    "max_count": 100,
+    "current_count": 100
+  },
+  "buffer_inventory":[{
+      "id": 10,
+      "max_count": 100,
+      "current_count": 10
+  }]
+} */

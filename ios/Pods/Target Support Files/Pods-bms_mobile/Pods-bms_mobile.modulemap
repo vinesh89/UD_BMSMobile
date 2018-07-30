@@ -1,0 +1,6 @@
+module Pods_bms_mobile [system] {
+  umbrella header "Pods-bms_mobile-umbrella.h"
+
+  export *
+  module * { export * }
+}

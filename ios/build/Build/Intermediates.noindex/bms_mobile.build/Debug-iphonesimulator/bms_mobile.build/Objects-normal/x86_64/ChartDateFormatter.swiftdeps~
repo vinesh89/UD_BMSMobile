@@ -1,0 +1,229 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ChartDateFormatter"
+provides-nominal:
+- "10bms_mobile18ChartDateFormatterC"
+provides-member:
+- ["10bms_mobile18ChartDateFormatterC", ""]
+provides-dynamic-lookup:
+- "stringForValue"
+depends-top-level:
+- !private "/"
+- "AssignmentPrecedence"
+- "AxisBase"
+- "ChartDataEntry"
+- "ChartDateFormatter"
+- !private "Date"
+- "DateFormatter"
+- "Double"
+- "IAxisValueFormatter"
+- "IValueFormatter"
+- "Int"
+- "NSObject"
+- "String"
+- "ViewPortHandler"
+depends-member:
+- !private ["s7CVarArgP", "Date"]
+- ["s7CVarArgP", "DateFormatter"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "dateFormat"]
+- !private ["s7CVarArgP", "dateFormatter"]
+- !private ["s7CVarArgP", "format"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "string"]
+- ["s7CVarArgP", "stringForValue"]
+- ["10bms_mobile18ChartDateFormatterC", "AxisBase"]
+- ["10bms_mobile18ChartDateFormatterC", "ChartDataEntry"]
+- !private ["10bms_mobile18ChartDateFormatterC", "Date"]
+- ["10bms_mobile18ChartDateFormatterC", "DateFormatter"]
+- ["10bms_mobile18ChartDateFormatterC", "Double"]
+- ["10bms_mobile18ChartDateFormatterC", "Int"]
+- ["10bms_mobile18ChartDateFormatterC", "String"]
+- ["10bms_mobile18ChartDateFormatterC", "ViewPortHandler"]
+- ["10bms_mobile18ChartDateFormatterC", "dateFormatter"]
+- ["10bms_mobile18ChartDateFormatterC", "deinit"]
+- !private ["10bms_mobile18ChartDateFormatterC", "format"]
+- ["10bms_mobile18ChartDateFormatterC", "init"]
+- ["10bms_mobile18ChartDateFormatterC", "stringForValue"]
+- !private ["s10ComparableP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "Date"]
+- ["s28CustomDebugStringConvertibleP", "DateFormatter"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "dateFormat"]
+- !private ["s28CustomDebugStringConvertibleP", "dateFormatter"]
+- !private ["s28CustomDebugStringConvertibleP", "format"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "string"]
+- ["s28CustomDebugStringConvertibleP", "stringForValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "Date"]
+- ["s23CustomStringConvertibleP", "DateFormatter"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "dateFormat"]
+- !private ["s23CustomStringConvertibleP", "dateFormatter"]
+- !private ["s23CustomStringConvertibleP", "format"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "string"]
+- ["s23CustomStringConvertibleP", "stringForValue"]
+- !private ["10Foundation4DateV", "init"]
+- !private ["So13DateFormatterC", "dateFormat"]
+- ["So13DateFormatterC", "init"]
+- !private ["So13DateFormatterC", "string"]
+- !private ["s9DecodableP", "init"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EquatableP", "Date"]
+- ["s9EquatableP", "DateFormatter"]
+- ["s9EquatableP", ""]
+- !private ["s9EquatableP", "dateFormat"]
+- !private ["s9EquatableP", "dateFormatter"]
+- !private ["s9EquatableP", "format"]
+- ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "string"]
+- ["s9EquatableP", "stringForValue"]
+- !private ["So9FormatterC", "dateFormat"]
+- ["So9FormatterC", "init"]
+- !private ["So9FormatterC", "string"]
+- !private ["s8HashableP", "Date"]
+- ["s8HashableP", "DateFormatter"]
+- ["s8HashableP", ""]
+- !private ["s8HashableP", "dateFormat"]
+- !private ["s8HashableP", "dateFormatter"]
+- !private ["s8HashableP", "format"]
+- ["s8HashableP", "init"]
+- !private ["s8HashableP", "string"]
+- ["s8HashableP", "stringForValue"]
+- !private ["6Charts19IAxisValueFormatterP", "Date"]
+- ["6Charts19IAxisValueFormatterP", "DateFormatter"]
+- ["6Charts19IAxisValueFormatterP", ""]
+- !private ["6Charts19IAxisValueFormatterP", "dateFormatter"]
+- !private ["6Charts19IAxisValueFormatterP", "format"]
+- ["6Charts19IAxisValueFormatterP", "stringForValue"]
+- !private ["6Charts15IValueFormatterP", "Date"]
+- ["6Charts15IValueFormatterP", "DateFormatter"]
+- ["6Charts15IValueFormatterP", ""]
+- !private ["6Charts15IValueFormatterP", "dateFormatter"]
+- !private ["6Charts15IValueFormatterP", "format"]
+- ["6Charts15IValueFormatterP", "stringForValue"]
+- !private ["So8NSCodingP", "dateFormat"]
+- ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "string"]
+- !private ["So9NSCopyingP", "dateFormat"]
+- ["So9NSCopyingP", "init"]
+- !private ["So9NSCopyingP", "string"]
+- ["So8NSObjectC", "AxisBase"]
+- ["So8NSObjectC", "ChartDataEntry"]
+- !private ["So8NSObjectC", "Date"]
+- ["So8NSObjectC", "DateFormatter"]
+- ["So8NSObjectC", "Double"]
+- ["So8NSObjectC", "Int"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", "ViewPortHandler"]
+- ["So8NSObjectC", ""]
+- !private ["So8NSObjectC", "dateFormat"]
+- ["So8NSObjectC", "dateFormatter"]
+- ["So8NSObjectC", "format"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "string"]
+- ["So8NSObjectC", "stringForValue"]
+- !private ["So16NSObjectProtocolP", "Date"]
+- ["So16NSObjectProtocolP", "DateFormatter"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["So16NSObjectProtocolP", "dateFormat"]
+- !private ["So16NSObjectProtocolP", "dateFormatter"]
+- !private ["So16NSObjectProtocolP", "format"]
+- ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "string"]
+- ["So16NSObjectProtocolP", "stringForValue"]
+- !private ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Date"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "DateFormatter"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dateFormat"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dateFormatter"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "format"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "string"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "stringForValue"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+depends-nominal:
+- "s7CVarArgP"
+- "10bms_mobile18ChartDateFormatterC"
+- !private "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation4DateV"
+- "So13DateFormatterC"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- "So9FormatterC"
+- "s8HashableP"
+- "6Charts19IAxisValueFormatterP"
+- "6Charts15IValueFormatterP"
+- "So8NSCodingP"
+- "So9NSCopyingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- !private "10Foundation20ReferenceConvertibleP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.swiftmodule/x86_64.swiftmodule"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/Charts/Charts.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/bms_mobile-Bridging-Header.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFont.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.modulemap"
+- "/Users/vineshkumar/Documents/Volvo/UD_Hackathon/bms_mobile/ios/build/Build/Products/Debug-iphonesimulator/Charts/Charts.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "4663b2e31ea88dcfba34c06166850219"
